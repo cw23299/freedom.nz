@@ -1,0 +1,106 @@
+ body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #004d99;
+            color: #ffffff;
+            padding: 1rem;
+            text-align: center;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            background-color: #003366;
+            padding: 0.5rem;
+        }
+        nav a {
+            color: #ffffff;
+            text-decoration: none;
+            padding: 0.5rem 1rem;
+            display: block;
+        }
+        nav a:hover {
+            background-color: #002244;
+        }
+        .container {
+            padding: 2rem;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        h1 {
+			color: white;
+			font-size: 80px;
+		}
+		
+		h2 {
+            color: #003366;
+			
+        }
+        footer {
+            background-color: #004d99;
+            color: #ffffff;
+            text-align: center;
+            padding: 1rem;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+        .policy-list {
+            list-style-type: none;
+            padding: 0;
+			 float: left;
+			margin-right: 10px;
+			
+        }
+        .policy-list li {
+            margin:  20px;
+            padding: 20px;
+            background-color: #e6e6e6;
+            border-radius: 2px;
+			margin-right: 10px;
+        }
+		
+		img {
+		
+		 display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 900px;
+		
+			
+		}
+	#Pie {
+			
+		overflow: hidden;
+		display: block;
+		width: 900px;
+			
+		}
+		
+		#Labour {
+			
+		display: block;
+		width: 900px;
+		margin-left: auto;
+		margin-right: auto;
+		
+		}
+		
+		#yo {
+			
+			 display: block;
+		margin-left: auto;
+		margin-right: auto;
+		
+		}
+		
+		li {
+			
+			 display: block;
+		margin-left: auto;
+		margin-right: auto;
+		
+		}
